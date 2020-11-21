@@ -1,7 +1,7 @@
 # Texdit
 
 
-<p align="center"> <b> What is Texdit? </b> </p>
+<p align="center"> <strong> What is Texdit? </strong> </p>
 
 
 <p align="center">
@@ -18,4 +18,4 @@ A personalised notepad to with minimalistic and aesthetic buttons simply created
 
 <p align="center"> Copyright © 2020 by Bryan Guntoro | Texdit Release v1.0 </p>
 
-***This was an assignment of Application Development with .NET at the University of Technology Sydney 2020***
+<p align="center"> <em> This was an assignment of Application Development with .NET at the University of Technology Sydney 2020 </em> </p>
