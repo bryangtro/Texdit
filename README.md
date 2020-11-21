@@ -1,6 +1,6 @@
 # Texdit
 
-<p style=font-size:"20px> **What is Texdit?** </p>
+<p style="font-size:20px"> **What is Texdit?** </p>
 
 
 <p align="center">
