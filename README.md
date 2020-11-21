@@ -1,5 +1,6 @@
+<div>
 # Texdit
-
+</div>
 <p align="center"> **What is Texdit?** </p>
 
 
