@@ -16,4 +16,4 @@ A personalised notepad to with minimalistic and aesthetic buttons simply created
 <p align="center"> Start using it now by heading towards towards the Texdit folder on how to run the application after you have downloaded the source code. I hope you enjoy using Texdit!  </p>
 
 
- Copyright © 2020 by Bryan Guntoro | Texdit Release v1.0
+<p align="center"> Copyright © 2020 by Bryan Guntoro | Texdit Release v1.0 </p>
