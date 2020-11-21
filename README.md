@@ -1,6 +1,6 @@
 # Texdit
 
-<p style="font-size:20px"> **What is Texdit?** </p>
+<p align="center"> **What is Texdit?** </p>
 
 
 <p align="center">
@@ -13,6 +13,6 @@ Texdit aims to give user a new experienece on text editor.
 A personalised notepad to with minimalistic and aesthetic buttons simply created to make your text editing much more easier!
 
 Start using it now by heading towards towards the Texdit folder on how to run the application after you have downloaded the source code. I hope you enjoy using Texdit! 
-</p>
+
 
  Copyright © 2020 by Bryan Guntoro | Texdit Release v1.0
