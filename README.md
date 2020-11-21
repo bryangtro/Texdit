@@ -1,6 +1,6 @@
 # Texdit
 
-![Texdit Logo](https://github.com/bryangtro/Texdit/blob/master/Texdit Logo.jpg?raw=true)
+![Texdit Logo](https://github.com/bryangtro/Texdit/blob/master/Texdit%27Logo.jpg?raw=true)
 **What is Texdit?**
 
 Texdit is a personal text editor windows-based application that is created and developed by me a UTS Student.
