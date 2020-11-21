@@ -17,3 +17,5 @@ A personalised notepad to with minimalistic and aesthetic buttons simply created
 
 
 <p align="center"> Copyright © 2020 by Bryan Guntoro | Texdit Release v1.0 </p>
+
+***This was an assignment of Application Development with .NET at the University of Technology Sydney 2020***
