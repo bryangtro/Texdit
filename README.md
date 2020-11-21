@@ -15,4 +15,5 @@ A personalised notepad to with minimalistic and aesthetic buttons simply created
 
 <p align="center"> Copyright © 2020 by Bryan Guntoro | Texdit Release v1.0 </p>
 
-<p align="center"> <em> This was an assignment of Application Development with .NET at the University of Technology Sydney 2020 </em> </p>
+<p align="center"> <em> This was an assignment of Application Development with .NET at the University of Technology Sydney 2020 
+<br> 31927 Application Development with .NET </em> </p>
