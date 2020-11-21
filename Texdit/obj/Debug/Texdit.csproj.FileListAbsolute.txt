@@ -1,0 +1,13 @@
+C:\Users\David Guntoro\source\repos\Texdit\Texdit\obj\Debug\Texdit.csprojAssemblyReference.cache
+C:\Users\David Guntoro\source\repos\Texdit\Texdit\obj\Debug\Texdit.Properties.Resources.resources
+C:\Users\David Guntoro\source\repos\Texdit\Texdit\obj\Debug\Texdit.csproj.GenerateResource.cache
+C:\Users\David Guntoro\source\repos\Texdit\Texdit\obj\Debug\Texdit.csproj.CoreCompileInputs.cache
+C:\Users\David Guntoro\source\repos\Texdit\Texdit\bin\Debug\Texdit.exe.config
+C:\Users\David Guntoro\source\repos\Texdit\Texdit\bin\Debug\Texdit.exe
+C:\Users\David Guntoro\source\repos\Texdit\Texdit\bin\Debug\Texdit.pdb
+C:\Users\David Guntoro\source\repos\Texdit\Texdit\obj\Debug\Texdit.exe
+C:\Users\David Guntoro\source\repos\Texdit\Texdit\obj\Debug\Texdit.pdb
+C:\Users\David Guntoro\source\repos\Texdit\Texdit\obj\Debug\Texdit.loginScreen.resources
+C:\Users\David Guntoro\source\repos\Texdit\Texdit\obj\Debug\Texdit.CreateAccountScreen.resources
+C:\Users\David Guntoro\source\repos\Texdit\Texdit\obj\Debug\Texdit.TextEditorScreen.resources
+C:\Users\David Guntoro\source\repos\Texdit\Texdit\obj\Debug\Texdit.AboutForm.resources
