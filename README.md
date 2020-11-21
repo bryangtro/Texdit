@@ -11,9 +11,9 @@
 
 <p align="center"> Texdit is a personal text editor windows-based application that is created and developed by me a UTS Student.
 Texdit aims to give user a new experienece on text editor.
-A personalised notepad to with minimalistic and aesthetic buttons simply created to make your text editing much more easier!
+A personalised notepad to with minimalistic and aesthetic buttons simply created to make your text editing much more easier! </p>
 
-Start using it now by heading towards towards the Texdit folder on how to run the application after you have downloaded the source code. I hope you enjoy using Texdit! </p>
+<p align="center"> Start using it now by heading towards towards the Texdit folder on how to run the application after you have downloaded the source code. I hope you enjoy using Texdit!  </p>
 
 
  Copyright © 2020 by Bryan Guntoro | Texdit Release v1.0
