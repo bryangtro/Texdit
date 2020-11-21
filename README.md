@@ -1,7 +1,7 @@
 # Texdit
 
 
-<p align="center"> <strong> What is Texdit? </strong> </p>
+<p align="center"> <h2> <strong> What is Texdit? <h2> </strong> </p>
 
 
 <p align="center">
